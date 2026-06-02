@@ -1,6 +1,6 @@
 {
-  "name": "ESG Advisor Agent",
-  "description": "AI-Powered ESG Diagnostic and Sustainable Management System for organizations, SMEs, universities, and investors.",
+  "name": "ESG AI Advisor",
+  "description": "An AI-powered assistant for ESG analysis, advisory, and sustainable management.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
